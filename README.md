@@ -1,4 +1,4 @@
-# Hello World! 👋:
+# Hello World! 👋
 My name is Younus, and I'm a student who's passionate about DevOps and cloud engineering, specializing in building, automating, and scaling robust systems. I have hands-on experience with tools like Docker, AWS, Jenkins, and Kubernetes, and I thrive on optimizing workflows for better efficiency and reliability. With a solid foundation in FullStack development, I’m committed to creating scalable infrastructure that supports seamless software delivery.<br><br>Always eager to learn, I'm continuously refining my skills to enhance both system performance and developer productivity.<br><br>Feel free to check out my projects below! :D
 
 
