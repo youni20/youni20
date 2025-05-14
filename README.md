@@ -15,7 +15,7 @@ My name is Younus, and I'm a student who's passionate about DevOps and cloud eng
       ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
     </td>
     <td>
-      <img src="Spidey.jpg" alt="Spidey" width="300"/>
+      <img src="/Spidey.jpg" alt="Spidey" width="300"/>
     </td>
   </tr>
 </table>
