@@ -10,16 +10,11 @@ My name is Younus, and I'm a student who's passionate about DevOps and cloud eng
 
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-    </td>
-    <td>
-      <img src="Spidey.jpg" alt="Spidey" width="300"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="display:inline-block; vertical-align:middle; margin-right:20px;" />
+  <img src="./Spidey.jpg" width="300" style="display:inline-block; vertical-align:middle;" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
