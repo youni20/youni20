@@ -12,7 +12,7 @@ My name is Younus, and I'm a student who's passionate about DevOps and cloud eng
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="display:inline-block; vertical-align:middle; margin-right:20px;" />
-  <img src="./Spidey.jpg" width="300" style="display:inline-block; vertical-align:middle;" />
+  <img src="./cr7quote.jpg" width="300" style="display:inline-block; vertical-align:middle;" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
