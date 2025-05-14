@@ -11,7 +11,6 @@ My name is Younus, and I'm a student who's passionate about DevOps and cloud eng
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="margin-bottom: 20px;" />
-  <img src="./cr7quote.jpg" style="height: 200px; width: auto; max-width: 100%;" />
 </div>
 
 
