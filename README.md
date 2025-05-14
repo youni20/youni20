@@ -11,9 +11,10 @@ My name is Younus, and I'm a student who's passionate about DevOps and cloud eng
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="display:inline-block; vertical-align:middle; margin-right:20px;" />
-  <img src="./cr7quote.jpg" width="700" style="display:inline-block; vertical-align:middle;" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="margin-bottom: 20px;" />
+  <img src="./cr7quote.jpg" width="800" style="max-width: 100%; height: auto;" />
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
