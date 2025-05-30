@@ -2,14 +2,12 @@
 
 I’m an aspiring **DevOps & Cloud Engineer** with comprehensive experience designing, building, and automating scalable, secure infrastructure across cloud and hybrid environments. I architect cloud-native solutions on **AWS**, leveraging services like **EC2, S3, IAM, CloudFormation, Lambda, and EKS**, and manage containerized workloads using **Docker** and **Kubernetes**.
 
-I bring strong expertise in **Linux server administration**, including writing robust shell scripts (Bash), automating workflows with **Python**, and managing configurations with **Ansible**. Skilled at monitoring, logging, and troubleshooting, I ensure high availability and optimal system health across complex environments.
-
-I design and implement efficient **CI/CD pipelines** using tools like **Jenkins**, **GitHub Actions**, and **Terraform**, applying infrastructure-as-code principles to deliver repeatable, reliable deployments at scale. My knowledge extends to networking fundamentals (DNS, Load Balancers, Firewalls) and security best practices, including **IAM policies**, **SSH**, and cloud/server hardening.
+I bring strong expertise in **Linux server administration**, including writing robust shell scripts (Bash), automating workflows with **Python**, and managing configurations with **Ansible**. Skilled at monitoring, logging, and troubleshooting, I ensure high availability and optimal system health across complex environments.  
+  I design and implement efficient **CI/CD pipelines** using tools like **Jenkins**, **GitHub Actions**, and **Terraform**, applying infrastructure-as-code principles to deliver repeatable, reliable deployments at scale. My knowledge extends to networking fundamentals (DNS, Load Balancers, Firewalls) and security best practices, including **IAM policies**, **SSH**, and cloud/server hardening.
 
 With a solid foundation in **Full Stack Development** and **Machine Learning**, I also integrate **MLOps** workflows to streamline deployment and maintenance of ML models in production — bridging development, data science, and operations seamlessly.
 
 I am committed to:
-
 * Building **robust, scalable, and secure cloud & server infrastructure**
 * Automating complex processes through scripting and infrastructure as code
 * Enhancing system reliability, security, and developer productivity
