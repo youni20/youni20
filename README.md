@@ -13,7 +13,7 @@ I am committed to:
 * Enhancing system reliability, security, and developer productivity
 * Continuously mastering best practices in **DevOps, Cloud, Linux, and Automation**
 
-If you’re looking for a versatile engineer who can optimize infrastructure, accelerate delivery pipelines, and drive cloud transformation, explore my projects below. I’m eager to contribute to innovative teams and challenging projects!
+I’m eager to contribute to innovative teams and challenging projects!
 
 
 ## 🌐 Socials:
