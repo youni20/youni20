@@ -1,5 +1,21 @@
-# Hello World! 👋
-My name is Younus, and I'm a student who's passionate about DevOps and cloud engineering, specializing in building, automating, and scaling robust systems. I have hands-on experience with tools like Docker, AWS, Jenkins, and Kubernetes, and I thrive on optimizing workflows for better efficiency and reliability. With a solid foundation in FullStack development and Machine Learning, I’m committed to creating scalable infrastructure that supports seamless software delivery.<br><br>Always eager to learn, I'm continuously refining my skills to enhance both system performance and developer productivity.<br><br>Feel free to check out my projects below! :D
+# 👋 Hi, I'm Younus
+
+I’m an aspiring **DevOps & Cloud Engineer** passionate about designing, building, and automating scalable, secure infrastructure across cloud and hybrid environments. I specialize in architecting cloud-native solutions on **AWS** using services like **EC2, S3, IAM, CloudFormation, Lambda, and EKS**, while managing containerized workloads with **Docker** and **Kubernetes**.
+
+I have strong hands-on experience with **Linux server administration**, including shell scripting (Bash), automation with **Python**, and configuration management using tools like **Ansible**. I’m proficient in monitoring, logging, and troubleshooting Linux servers to maintain high availability and system health.
+
+Building efficient **CI/CD pipelines** is my passion — I automate builds, tests, and deployments using **Jenkins**, **GitHub Actions**, and **Terraform**, applying infrastructure-as-code principles for repeatability and scalability. I’m comfortable working with networking fundamentals (DNS, Load Balancers, Firewalls) and securing cloud and server environments through **IAM policies**, **SSH**, and security best practices.
+
+With a foundation in **Full Stack Development** and **Machine Learning**, I bring a unique perspective that enables me to integrate **MLOps** workflows, helping data science teams deploy, monitor, and maintain ML models reliably in production.
+
+I’m dedicated to:
+
+* Building **robust, scalable, and secure cloud & server infrastructure**
+* Automating repetitive tasks with scripting and infrastructure as code
+* Enhancing system reliability and developer productivity
+* Continuously learning and adopting best practices in **DevOps, Cloud, and Linux operations**
+
+If you want a versatile engineer who can optimize your infrastructure, streamline deployments, and support cloud transformation, check out my projects below. I’m excited to collaborate and contribute to innovative teams!
 
 
 ## 🌐 Socials:
