@@ -8,7 +8,6 @@ I run homelabs experimenting with cloud-native tech, automation, and orchestrati
 
 I’m driven to streamline operations, boost reliability, and deliver scalable, secure solutions that empower teams to innovate faster and keep systems running flawlessly.
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youni._.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younusmashoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:younusmashoor@gmail.com)
 
