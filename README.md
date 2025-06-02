@@ -1,19 +1,12 @@
 # 👋 Hi, I'm Younus
 
-I’m an aspiring **DevOps & Cloud Engineer** with comprehensive experience designing, building, and automating scalable, secure infrastructure across cloud and hybrid environments. I architect cloud-native solutions on **AWS**, leveraging services like **EC2, S3, IAM, CloudFormation, Lambda, and EKS**, and manage containerized workloads using **Docker** and **Kubernetes**.
+I’m an aspiring DevOps & Cloud Engineer passionate about building reliable, scalable infrastructure and automating everything—from cloud environments and hybrid servers to operational workflows and security. I have hands-on experience designing cloud-native solutions on AWS (EC2, S3, IAM, CloudFormation, Lambda, EKS) and managing containerized workloads with Docker and Kubernetes.
 
-I bring strong expertise in **Linux server administration**, including writing robust shell scripts (Bash), automating workflows with **Python**, and managing configurations with **Ansible**. Skilled at monitoring, logging, and troubleshooting, I ensure high availability and optimal system health across complex environments.  
-  I design and implement efficient **CI/CD pipelines** using tools like **Jenkins**, **GitHub Actions**, and **Terraform**, applying infrastructure-as-code principles to deliver repeatable, reliable deployments at scale. My knowledge extends to networking fundamentals (DNS, Load Balancers, Firewalls) and security best practices, including **IAM policies**, **SSH**, and cloud/server hardening.
+Skilled in Linux server administration, I manage and optimize servers, write robust Bash scripts, automate complex workflows with Python, and configure systems using Ansible. I build efficient CI/CD pipelines with Jenkins, GitHub Actions, and Terraform, applying infrastructure-as-code for consistent, repeatable deployments.
 
-With a solid foundation in **Full Stack Development** and **Machine Learning**, I also integrate **MLOps** workflows to streamline deployment and maintenance of ML models in production — bridging development, data science, and operations seamlessly.
+I run homelabs experimenting with cloud-native tech, automation, and orchestration—deepening my understanding of system architecture, networking, and security. With a background in full stack development and machine learning, I also integrate MLOps workflows to bridge development and operations seamlessly.
 
-I am committed to:
-* Building **robust, scalable, and secure cloud & server infrastructure**
-* Automating complex processes through scripting and infrastructure as code
-* Enhancing system reliability, security, and developer productivity
-* Continuously mastering best practices in **DevOps, Cloud, Linux, and Automation**
-
-I’m eager to contribute to innovative teams and challenging projects!
+I’m driven to streamline operations, boost reliability, and deliver scalable, secure solutions that empower teams to innovate faster and keep systems running flawlessly.
 
 
 ## 🌐 Socials:
