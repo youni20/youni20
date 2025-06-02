@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Younus
 
-I’m an aspiring DevOps & Cloud Engineer passionate about building reliable, scalable infrastructure and automating everything—from cloud environments and hybrid servers to operational workflows and security. I have hands-on experience designing cloud-native solutions on AWS (EC2, S3, IAM, CloudFormation, Lambda, EKS) and managing containerized workloads with Docker and Kubernetes.
+I’m an aspiring **DevOps & Cloud Engineer** passionate about building **reliable, scalable infrastructure** and **automating everything**—from **cloud environments** and **hybrid servers** to **operational workflows** and **security**. I have hands-on experience designing **cloud-native solutions** on **AWS** (**EC2, S3, IAM, CloudFormation, Lambda, EKS**) and managing containerized workloads with **Docker** and **Kubernetes**.
 
-Skilled in Linux server administration, I manage and optimize servers, write robust Bash scripts, automate complex workflows with Python, and configure systems using Ansible. I build efficient CI/CD pipelines with Jenkins, GitHub Actions, and Terraform, applying infrastructure-as-code for consistent, repeatable deployments.
+Skilled in **Linux server administration**, I manage and optimize servers, write robust **Bash scripts**, automate complex workflows with **Python**, and configure systems using **Ansible**. I build efficient **CI/CD pipelines** with **Jenkins**, **GitHub Actions**, and **Terraform**, applying **infrastructure-as-code** for consistent, repeatable deployments.
 
-I run homelabs experimenting with cloud-native tech, automation, and orchestration—deepening my understanding of system architecture, networking, and security. With a background in full stack development and machine learning, I also integrate MLOps workflows to bridge development and operations seamlessly.
+I run **homelabs** experimenting with cloud-native tech, automation, and orchestration—deepening my understanding of **system architecture**, **networking**, and **security**. With a background in **full stack development** and **machine learning**, I also integrate **MLOps workflows** to bridge development and operations seamlessly.
 
-I’m driven to streamline operations, boost reliability, and deliver scalable, secure solutions that empower teams to innovate faster and keep systems running flawlessly.
+I’m driven to **streamline operations**, **boost reliability**, and deliver **scalable, secure solutions** that empower teams to innovate faster and keep systems running flawlessly.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youni._.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younusmashoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:younusmashoor@gmail.com)
