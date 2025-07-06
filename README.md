@@ -7,7 +7,7 @@ My work spans across cloud platforms like **AWS**, containerization with **Docke
 
 I'm also exploring the intersection of DevOps and machine learning through **MLOps** — applying DevOps principles to streamline model deployment, monitoring, and lifecycle management.
 
-I'm always pushing myself to grow — applying what I learn through hands-on experimentation, real-world experience, and continuous improvement.  
+I'm always pushing myself to grow applying what I learn through hands-on experimentation, real-world experience, and continuous improvement.  
 This GitHub is a reflection of that journey, showcasing the skills I'm sharpening and the problems I'm solving.  
 Thanks for stopping by!
 
