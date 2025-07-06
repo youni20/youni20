@@ -1,8 +1,15 @@
 # 👋 Hi, I'm Younus
 
-I’m an aspiring DevOps and Cloud Engineer passionate about building scalable systems, automating workflows, and mastering cloud-native tools. I enjoy turning complex infrastructure into manageable, reliable, and secure solutions. My work spans across cloud platforms like AWS, containerization with Docker and Kubernetes, CI/CD pipelines, Infrastructure as Code using Terraform and AWS CDK, and monitoring with tools like Prometheus and Grafana. 
-    I'm also exploring the intersection of DevOps and machine learning through MLOps, applying DevOps principles to streamline model deployment, monitoring, and lifecycle management. I'm always pushing myself to grow, applying what I learn through hands-on experimentation, real-world experience, and continuous improvement. 
-    This GitHub is a reflection of that journey, showcasing the skills I'm sharpening and the problems I'm solving. Thanks for stopping by!
+I’m an aspiring **DevOps and Cloud Engineer** passionate about building scalable systems, automating workflows, and mastering cloud-native tools.  
+I enjoy turning complex infrastructure into manageable, reliable, and secure solutions.
+
+My work spans across cloud platforms like **AWS**, containerization with **Docker** and **Kubernetes**, CI/CD pipelines, Infrastructure as Code using **Terraform** and **AWS CDK**, and monitoring with tools like **Prometheus** and **Grafana**.
+
+I'm also exploring the intersection of DevOps and machine learning through **MLOps** — applying DevOps principles to streamline model deployment, monitoring, and lifecycle management.
+
+I'm always pushing myself to grow — applying what I learn through hands-on experimentation, real-world experience, and continuous improvement.  
+This GitHub is a reflection of that journey, showcasing the skills I'm sharpening and the problems I'm solving.  
+Thanks for stopping by!
 
 
 ## 🌐 Socials:
