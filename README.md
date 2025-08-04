@@ -1,5 +1,16 @@
 # 👋 Hi, I'm Younus
-As a DevOps and Cloud Engineer, I'm enthusiastic about automating processes, building scalable systems, and becoming proficient with cloud-native technologies.<br>I enjoy transforming complicated infrastructure into secure, dependable, and manageable on-premises and cloud-based solutions.<br><br>My work involves:<br><br>* Cloud platforms like AWS<br>* Containerization with Docker and Kubernetes<br>* CI/CD pipelines<br>* Infrastructure as Code using Terraform and AWS CDK<br>* Monitoring with Prometheus and Grafana<br><br>I’m also exploring the intersection of DevOps and machine learning through MLOps, applying DevOps principles to accelerate model deployment, monitoring, and lifecycle management.<br><br>I constantly challenge myself to grow by putting what I’ve learned into practice through hands on experimentation, real-world experience, and ongoing improvement.
+As a DevOps and Cloud Engineer, I'm enthusiastic about automating processes, building scalable systems, and becoming proficient with cloud-native technologies.<br>I enjoy transforming complicated infrastructure into secure, dependable, and manageable on-premises and cloud-based solutions.<br><br>My work involves:
+
+- Designing and managing production-grade cloud infrastructure on **AWS**, with emphasis on scalability, high availability (HA), disaster recovery (DR), and cost-efficiency
+- Architecting secure, multi-environment and multi-account cloud architectures using services like **ECS/EKS**, **EC2**, **S3**, **RDS**, **VPC**, **CloudFront**, **IAM**, **Route 53**, and **Transit Gateway**
+- Implementing **Infrastructure as Code (IaC)** at scale using **Terraform** and **AWS CDK**, including modular architecture, automated validation, policy-as-code (e.g. **OPA**), and drift detection
+- Developing production-ready **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, or **AWS CodePipeline**, with automated testing, security scanning (e.g. **Snyk**, **Trivy**), approvals, and rollback strategies
+- Building and operating containerized microservices using **Docker** and **Kubernetes (EKS)**, including **Helm**, **Ingress Controllers (NGINX/ALB)**, **Pod Disruption Budgets**, and autoscaling
+- Implementing advanced observability with **Prometheus**, **Grafana**, **CloudWatch**, **ELK**, and **distributed tracing** via **AWS X-Ray** or **Jaeger**
+- Applying cloud security best practices, including **least privilege IAM**, **VPC security design**, **KMS-based encryption**, **Secrets Manager**, and **compliance mapping (e.g., CIS/AWS Well-Architected Framework)**
+- Managing cost optimization using tools like **AWS Budgets**, **Cost Explorer**, and resource tagging standards across environments
+- Designing for resilience and performance using **load balancing (ALB/NLB)**, **auto scaling**, and **infrastructure health checks**
+- Automating deployments with **blue/green** and **canary** strategies, infrastructure lifecycle hooks, and zero-downtime rollouts
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/younusmashoor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:younusmashoor@gmail.com)
