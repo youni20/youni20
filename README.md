@@ -1,16 +1,18 @@
 # 👋 Hi, I'm Younus
-As a DevOps and Cloud Engineer, I'm enthusiastic about automating processes, building scalable systems, and becoming proficient with cloud-native technologies.<br>I enjoy transforming complicated infrastructure into secure, dependable, and manageable on-premises and cloud-based solutions.<br><br>My work involves:
 
-- Designing and managing production-grade cloud infrastructure on **AWS**, with emphasis on scalability, high availability (HA), disaster recovery (DR), and cost-efficiency
-- Architecting secure, multi-environment and multi-account cloud architectures using services like **ECS/EKS**, **EC2**, **S3**, **RDS**, **VPC**, **CloudFront**, **IAM**, **Route 53**, and **Transit Gateway**
-- Implementing **Infrastructure as Code (IaC)** at scale using **Terraform** and **AWS CDK**, including modular architecture, automated validation, policy-as-code (e.g. **OPA**), and drift detection
-- Developing production-ready **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, or **AWS CodePipeline**, with automated testing, security scanning (e.g. **Snyk**, **Trivy**), approvals, and rollback strategies
-- Building and operating containerized microservices using **Docker** and **Kubernetes (EKS)**, including **Helm**, **Ingress Controllers (NGINX/ALB)**, **Pod Disruption Budgets**, and autoscaling
-- Implementing advanced observability with **Prometheus**, **Grafana**, **CloudWatch**, **ELK**, and **distributed tracing** via **AWS X-Ray** or **Jaeger**
-- Applying cloud security best practices, including **least privilege IAM**, **VPC security design**, **KMS-based encryption**, **Secrets Manager**, and **compliance mapping (e.g., CIS/AWS Well-Architected Framework)**
-- Managing cost optimization using tools like **AWS Budgets**, **Cost Explorer**, and resource tagging standards across environments
-- Designing for resilience and performance using **load balancing (ALB/NLB)**, **auto scaling**, and **infrastructure health checks**
-- Automating deployments with **blue/green** and **canary** strategies, infrastructure lifecycle hooks, and zero-downtime rollouts
+I'm a DevOps & Cloud Engineer passionate about automation, scalability, and building secure, production-grade infrastructure—both in the cloud and on-premises.
+
+### 🔧 What I Do
+
+- Architect and manage resilient, cost-efficient cloud infrastructure on **AWS**, focusing on **HA**, **DR**, and performance
+- Build secure multi-account architectures using services like **EKS/ECS**, **EC2**, **VPC**, **S3**, **RDS**, **IAM**, and **CloudFront**
+- Implement scalable **Infrastructure as Code** with **Terraform** and **AWS CDK**, including modular designs, policy enforcement, and drift detection
+- Create production-grade **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, and **CodePipeline** with security scanning, automated testing, and rollback
+- Deploy and manage containerized applications via **Docker** and **Kubernetes (EKS)** using **Helm**, **Ingress Controllers**, and autoscaling
+- Monitor systems with **Prometheus**, **Grafana**, **CloudWatch**, and distributed tracing via **Jaeger** or **AWS X-Ray**
+- Apply cloud security best practices, from **least privilege IAM** to **encryption (KMS)** and **Secrets Manager**
+- Optimize cloud costs using **AWS Budgets**, **Cost Explorer**, and tagging strategies
+- Automate safe, zero-downtime rollouts with **blue/green** and **canary deployments**
 
 
 # ⚙️ Tech Stack:
