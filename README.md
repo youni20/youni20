@@ -4,15 +4,16 @@ I'm a DevOps & Cloud Engineer passionate about automation, scalability, and buil
 
 ### 🔧 What I Do
 
-- Architect and manage resilient, cost-efficient cloud infrastructure on **AWS**, focusing on **HA**, **DR**, and performance
-- Build secure multi-account architectures using services like **EKS/ECS**, **EC2**, **VPC**, **S3**, **RDS**, **IAM**, and **CloudFront**
-- Implement scalable **Infrastructure as Code** with **Terraform** and **AWS CDK**, including modular designs, policy enforcement, and drift detection
-- Create production-grade **CI/CD pipelines** using **GitHub Actions**, **GitLab CI**, and **CodePipeline** with security scanning, automated testing, and rollback
-- Deploy and manage containerized applications via **Docker** and **Kubernetes (EKS)** using **Helm**, **Ingress Controllers**, and autoscaling
-- Monitor systems with **Prometheus**, **Grafana**, **CloudWatch**, and distributed tracing via **Jaeger** or **AWS X-Ray**
-- Apply cloud security best practices, from **least privilege IAM** to **encryption (KMS)** and **Secrets Manager**
-- Optimize cloud costs using **AWS Budgets**, **Cost Explorer**, and tagging strategies
-- Automate safe, zero-downtime rollouts with **blue/green** and **canary deployments**
+- **Architect and manage resilient, cost-efficient cloud infrastructure across multi-cloud and hybrid environments**, focusing on **high availability (HA)**, **disaster recovery (DR)**, and performance  
+- **Design secure multi-account or multi-subscription architectures** leveraging compute, networking, storage, and identity services (e.g., **Kubernetes/EKS/AKS/GKE**, **VMs**, **VPC/Virtual Networks**, **object storage**, **relational databases**)  
+- **Implement scalable Infrastructure as Code** using **Terraform**, **Pulumi**, and cloud-native SDKs, including **modular designs**, **policy enforcement**, and **drift detection**  
+- **Create production-grade CI/CD pipelines** with **GitHub Actions**, **GitLab CI**, and cloud-native tooling, incorporating **security scanning**, **automated testing**, and **safe rollback**  
+- **Deploy and manage containerized applications** via **Docker** and **Kubernetes**, leveraging **Helm**, **Ingress Controllers**, and **autoscaling** for production-grade resilience  
+- **Monitor and troubleshoot distributed systems** using **Prometheus**, **Grafana**, **ELK/EFK stacks**, and distributed tracing tools like **Jaeger** or **OpenTelemetry**  
+- **Apply cloud security best practices** such as **least-privilege IAM/role-based access control**, **encryption at rest and in transit**, and **secret management** across environments  
+- **Optimize cloud costs** through **monitoring**, **tagging strategies**, and **cost management tools** across **AWS**, **Azure**, and **GCP**  
+- **Automate zero-downtime deployments** using **blue/green**, **canary releases**, and **progressive delivery techniques**  
+
 
 
 # ⚙️ Tech Stack:
