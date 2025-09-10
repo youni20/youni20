@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Younus
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer;Infrastructure+Architect;Platform+%26+Automation+Engineer;Cloud+Security+%26+Compliance;AI-Driven+Cloud+Solutions)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=Cloud+Engineer;DevOps+Engineer;Cloud+Solutions+Design;Platform+%26+Automation+Engineer;Cloud+Security+%26+Compliance;AI-Driven+Cloud+Solutions" alt="Typing SVG"/>
+</p>
 
-</div>
 
 **Building multi-cloud, automated, and secure infrastructure for scalable production systems.**
 
-I'm a DevOps & Cloud Engineer passionate about automation, scalability, and building secure, production-grade infrastructure—both in the cloud and on-premises. I leverage AI-driven tools and methodologies to optimize infrastructure performance and accelerate deployment pipelines.
+I am a Cloud and DevOps Engineer passionate about automation, scalability, and secure, production-grade infrastructure. I design and implement cloud solutions that bridge software, infrastructure, and networking, primarily on **AWS**, leveraging cloud-native tools, IaC, and AI-driven methods to optimize performance and accelerate deployments.
 
 ### 🔧 What I Do
 
-- **Architect resilient, cost-efficient multi-cloud infrastructure** with high availability, disaster recovery, and performance optimization across **AWS**, **Azure**, and **GCP**
-- **Design secure multi-account architectures** leveraging **Kubernetes/EKS/AKS/GKE**, compute, networking, storage, and identity services with **least-privilege IAM** and **compliance frameworks (SOC 2, ISO 27001, PCI-DSS)**
-- **Implement scalable Infrastructure as Code (IaC)** using **Terraform**, with modular architecture, policy-as-code, and automated drift detection.
-- **Build production-grade CI/CD pipelines** with **GitHub Actions**, **GitLab CI**, incorporating security scanning, automated testing, and zero-downtime deployments using **blue/green** and **canary releases**
-- **Deploy and manage containerized applications** via **Docker** and **Kubernetes**, with **Helm**, autoscaling, and production-grade resilience
-- **Monitor distributed systems** using **Prometheus**, **Grafana**, **ELK stacks**, and implement **cost optimization** strategies across cloud environments
-- **Design scalable RESTful APIs** and integrate **AI/ML workflows** into CI/CD pipelines for intelligent monitoring and predictive scaling
+- **Design and implement scalable, resilient cloud solutions** with high availability, disaster recovery, and performance optimization across **AWS**, **Azure**, and **GCP**  
+- **Architect secure multi-account infrastructures** leveraging **Kubernetes/EKS/AKS/GKE**, compute, networking, storage, and identity services with least-privilege IAM and compliance frameworks (SOC 2, ISO 27001, PCI-DSS)  
+- **Automate infrastructure provisioning and management** using **Terraform** and other IaC tools with modular design, policy-as-code, and drift detection  
+- **Build robust CI/CD pipelines** with **GitHub Actions** and **GitLab CI**, including automated testing, security scanning, and zero-downtime deployments using blue/green and canary strategies  
+- **Deploy and manage containerized applications** via **Docker** and **Kubernetes**, with **Helm**, autoscaling, and production-grade resilience  
+- **Monitor and optimize distributed systems** with **Prometheus**, **Grafana**, **ELK stack**, and cost optimization strategies  
+- **Integrate AI/ML workflows** into CI/CD pipelines for intelligent monitoring, predictive scaling, and automation
+
 
 ## ⚙️ Core Technologies
 
