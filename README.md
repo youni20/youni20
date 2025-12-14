@@ -1,11 +1,12 @@
 # Hi, I'm Younus 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud+%26+ML+Engineer;Building+Scalable+AI+Solutions;MLOps+%26+Production+ML;Cloud-Native+Architecture" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud+%26+ML+Engineer;Building+Scalable+AI+Solutions;MLOps+%26+Production+ML;Cloud-Native+Architecture;Software+Engineering+%26+Systems+Design" alt="Typing SVG"/>
 </p>
 
-**Cloud & Machine Learning Engineer** building scalable, production ready AI systems.
-I develop ML models, build and maintain production software, design cloud architectures, and automate workflows that bridge software, infrastructure, and data. From model development to cloud-scale deployments.
+
+**Cloud & Machine Learning Engineer** building scalable, production-ready AI systems.
+I develop ML models, build and maintain production software, design cloud architectures, and automate workflows that bridge software, infrastructure, and data across the full lifecycle, from model development to cloud-scale deployments.
 
 ---
 
