@@ -4,9 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud+%26+ML+Engineer;Building+Scalable+AI+Solutions;MLOps+%26+Production+ML;Cloud-Native+Architecture" alt="Typing SVG"/>
 </p>
 
-**Cloud & Machine Learning Engineer** building scalable, production-ready AI systems.
-
-I design cloud architectures, develop ML models, and automate workflows that bridge software, infrastructure, and data—from model development to cloud-scale deployments on AWS.
+**Cloud & Machine Learning Engineer** building scalable, production ready AI systems.
+I develop ML models, build and maintain production software, design cloud architectures, and automate workflows that bridge software, infrastructure, and data. From model development to cloud-scale deployments.
 
 ---
 
