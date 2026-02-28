@@ -1,12 +1,12 @@
 # Hi, I'm Younus 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud+%26+ML+Engineer;Building+Scalable+AI+Solutions;MLOps+%26+Production+ML;Cloud-Native+Architecture;Software+Engineering+%26+Systems+Design" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud%2C+Data+%26+ML+Engineer;Building+Scalable+AI+Systems;Data+Pipelines+%26+ETL;Cloud-Native+Architecture;DevOps+%26+Security+Engineering" alt="Typing SVG"/>
 </p>
 
+**Cloud, Data & Machine Learning Engineer** building scalable, production-ready AI and data systems. 
 
-**Cloud & Machine Learning Engineer** building scalable, production-ready AI systems.
-I develop ML models, build and maintain production software, design cloud architectures, and automate workflows that bridge software, infrastructure, and data across the full lifecycle, from model development to cloud-scale deployments.
+I bridge the gap between developing advanced ML models and deploying them into production. I specialize in designing robust data pipelines, architecting cloud infrastructure (AWS), and automating workflows that span the full lifecycle, from data engineering to cloud-scale deployments and monitoring.
 
 ---
 
