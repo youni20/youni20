@@ -1,10 +1,12 @@
 # Hi, I'm Younus 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+Engineer;Scalable+Data+Systems;Pipeline+Design+%26+Data+Modelling;ML+Infrastructure+%26+Operations;Cloud-Native+Architecture" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Data+%26+Backend+Engineer;Cloud+%26+ML+Infrastructure;Data+Pipelines+%26+Backend+Services;ML+Serving+%26+Operations;Full+Development+Lifecycle" alt="Typing SVG"/>
 </p>
 
-**Data Engineer** with a background in Mathematics and Computer Science. I work across the full data lifecycle, from pipeline design and data modelling to cloud infrastructure, with a focus on ML infrastructure and operations.
+**Data & Backend Engineer | Cloud & ML Infrastructure**
+
+I design and build data pipelines, backend services, and ML serving infrastructure on the cloud. I work across the full development lifecycle, from architecture and implementation through to deployment and operations.
 
 ---
 
@@ -46,7 +48,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### Languages & Frameworks
+### Backend & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -54,8 +56,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white)
 
 </td>
