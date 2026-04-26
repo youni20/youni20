@@ -6,7 +6,7 @@
 
 **Cloud, Data and AI Infrastructure Engineer**
 
-I build the data and infrastructure foundations that modern AI runs on. My work spans data pipelines, cloud architecture, container orchestration, and the systems that train and serve machine learning models at scale. Comfortable across the stack, from designing distributed data systems and cloud-native infrastructure to optimizing performance where it matters most.
+I build the data and infrastructure foundations that modern AI runs on. My work spans data pipelines, cloud architecture, container orchestration, and the systems that train and serve machine learning models at scale. Comfortable across the stack, from designing distributed data systems and cloud-native infrastructure to optimising performance where it matters most.
 
 ## Tech Stack
 
@@ -16,6 +16,8 @@ I build the data and infrastructure foundations that modern AI runs on. My work 
 
 ### Cloud and Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -28,6 +30,8 @@ I build the data and infrastructure foundations that modern AI runs on. My work 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
