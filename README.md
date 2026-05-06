@@ -1,12 +1,12 @@
 # Hi, I'm Younus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud%2C+Data+%26+AI+Infrastructure+Engineer;Distributed+Data+Systems+%26+Pipelines;Cloud-Native+Infrastructure+at+Scale;ML+Training+%26+Serving+Systems" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Cloud+Engineer;Production+AI+Systems+on+AWS;Cloud-Native+ML+Infrastructure;LLM+Applications+%26+Deployment" alt="Typing SVG"/>
 </p>
 
-**Cloud, Data and AI Infrastructure Engineer**
+**AI and Cloud Engineer**
 
-I build the data and infrastructure foundations that modern AI runs on. My work spans data pipelines, cloud architecture, container orchestration, and the systems that train and serve machine learning models at scale. Comfortable across the stack, from designing distributed data systems and cloud-native infrastructure to optimising performance where it matters most.
+I build and deploy production AI systems on cloud infrastructure. My work spans AI applications, machine learning systems, and the cloud-native infrastructure that runs them reliably at scale. Comfortable across the stack, from designing LLM applications and ML pipelines to optimising deployment, observability, and cost where it matters most.
 
 ## Tech Stack
 
@@ -36,14 +36,15 @@ I build the data and infrastructure foundations that modern AI runs on. My work 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### ML Infrastructure
+### AI and ML Infrastructure
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B6B?style=flat-square&logo=python&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Agno](https://img.shields.io/badge/Agno-1A1A1A?style=flat-square&logo=python&logoColor=white)
 </td>
 <td valign="top" width="50%">
 
