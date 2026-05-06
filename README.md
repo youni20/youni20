@@ -1,12 +1,12 @@
 # Hi, I'm Younus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+%26+Cloud+Engineer;Production+AI+Systems+on+AWS;Cloud-Native+ML+Infrastructure;LLM+Applications+%26+Deployment" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud+%26+AI+Engineer;Building+%26+Deploying+Intelligent+Systems;Production+AI+on+Cloud+Infrastructure;LLM+Applications+%26+ML+Pipelines" alt="Typing SVG"/>
 </p>
 
-**AI and Cloud Engineer**
+**Cloud & AI Engineer**
 
-I build and deploy production AI systems on cloud infrastructure. My work spans AI applications, machine learning systems, and the cloud-native infrastructure that runs them reliably at scale. Comfortable across the stack, from designing LLM applications and ML pipelines to optimising deployment, observability, and cost where it matters most.
+I develop and deploy intelligent systems end-to-end, from the models themselves to the services and infrastructure that run them in production. My work spans LLM applications, machine learning pipelines, and the cloud-native architecture that makes them reliable, observable, and cost-efficient at scale. Comfortable across the stack, from designing model behaviour and engineering the APIs around it, to provisioning the infrastructure underneath.
 
 ## Tech Stack
 
