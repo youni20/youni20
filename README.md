@@ -1,12 +1,14 @@
 # Hi, I'm Younus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Cloud+%26+AI+Engineer;Building+%26+Deploying+Intelligent+Systems;Production+AI+on+Cloud+Infrastructure;LLM+Applications+%26+ML+Pipelines" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Systems+Engineer;Performance+%26+Concurrent+Systems;AI+Infrastructure+%26+Cloud+Systems;Low-Overhead%2C+Measured+Software" alt="Typing SVG"/>
 </p>
 
-**Cloud & AI Engineer**
+**AI Systems Engineer | Performance & Concurrent Systems**
 
-I develop and deploy intelligent systems end-to-end, from the models themselves to the services and infrastructure that run them in production. My work spans LLM applications, machine learning pipelines, and the cloud-native architecture that makes them reliable, observable, and cost-efficient at scale. Comfortable across the stack, from designing model behaviour and engineering the APIs around it, to provisioning the infrastructure underneath.
+Systems Engineer with a background in Mathematics and Computer Science, working across AI infrastructure, cloud systems, and performance-critical software. I design and deploy intelligent systems end-to-end, from models to the infrastructure running them in production, while building deeper expertise in concurrent, low-overhead systems engineering: lock-free structures, memory-aware design, and measured, benchmarked performance.
+
+I reason from first principles, whether implementing a model or writing code where every cache line matters. Currently deepening this through postgraduate study in mathematics and embedded systems, alongside self-directed work in high-performance C++.
 
 ## Tech Stack
 
@@ -17,24 +19,10 @@ I develop and deploy intelligent systems end-to-end, from the models themselves 
 ### Cloud and Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### AI and ML Infrastructure
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -45,6 +33,14 @@ I develop and deploy intelligent systems end-to-end, from the models themselves 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Agno](https://img.shields.io/badge/Agno-1A1A1A?style=flat-square&logo=python&logoColor=white)
+
+### Performance & Systems Engineering
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Perf](https://img.shields.io/badge/perf-333333?style=flat-square&logo=linux&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-666666?style=flat-square&logo=linux&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
 </td>
 <td valign="top" width="50%">
 
@@ -60,11 +56,16 @@ I develop and deploy intelligent systems end-to-end, from the models themselves 
 
 ### Backend and APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=swagger&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Hardware & Embedded
+![VHDL](https://img.shields.io/badge/VHDL-informational?style=flat-square&logo=chip&logoColor=white&color=4B0082)
+![Verilog](https://img.shields.io/badge/Verilog-informational?style=flat-square&color=4B0082)
+![FPGA](https://img.shields.io/badge/FPGA-informational?style=flat-square&color=8A2BE2)
+![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![RTOS](https://img.shields.io/badge/RTOS-informational?style=flat-square&color=708090)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
 
 </td>
 </tr>
